@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class L1Ex1 {
-    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um número: ");
