@@ -6,7 +6,7 @@ public class L2Ex1 {
         int[] numeros = new int[5];
         int soma = 0;
 
-        // Leitura dos números
+        // Leitura dos númeross
         for (int i = 0; i < 5; i++) {
             System.out.print("Digite o número " + (i + 1) + ": ");
             numeros[i] = scanner.nextInt();
