@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex8 {
+public class L2Ex8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] vetorA = new int[5];

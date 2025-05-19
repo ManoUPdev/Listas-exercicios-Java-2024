@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex13 {
+public class L2Ex13 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o numero de termos da sequencia de Fibonacci:");

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Ex7 {
+public class L2Ex7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] vetorA = new int[5];
