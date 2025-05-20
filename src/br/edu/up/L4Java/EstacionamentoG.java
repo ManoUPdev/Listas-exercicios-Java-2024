@@ -3,7 +3,7 @@ import br.edu.up.controllers.EstacionamentoController;
 import br.edu.up.models.Veiculo;
 import br.edu.up.view.EstacionamentoView;;
 
-public class App {
+public class EstacionamentoG {
     public static void main(String[] args) {
         EstacionamentoController controller = new EstacionamentoController(10, 5.0);
         EstacionamentoView view = new EstacionamentoView();

@@ -2,7 +2,7 @@ import br.edu.up.model.EmpresaDeEventosModel;
 import br.edu.up.controller.EmpresaDeEventosController;
 import br.edu.up.view.EmpresaDeEventosView;
 
-public class App {
+public class EventoG {
     public static void main(String[] args) {
         EmpresaDeEventosModel model = new EmpresaDeEventosModel();
         EmpresaDeEventosView view = new EmpresaDeEventosView();

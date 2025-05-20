@@ -1,7 +1,7 @@
 import br.edu.up.models.*;
 
 
-public class App {
+public class AgendaG {
     public static void main(String[] args) {
         // Criando uma agenda
         Agenda agenda = new Agenda();

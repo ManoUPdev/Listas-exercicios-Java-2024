@@ -6,7 +6,7 @@ import java.util.Scanner;
 import br.edu.up.models.*;
 import br.edu.up.views.ApoliceView;
 
-public class App {
+public class SeguroG {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcao;

@@ -1,6 +1,5 @@
-public class App {
+public class Ponto {
     public static void main(String[] args) throws Exception {
-        System.out.println("Cenario02\n");
         Ponto ponto1 = new Ponto();
         System.out.println("Ponto1 (" + ponto1.getX() + "," + ponto1.getY() + ")");
 

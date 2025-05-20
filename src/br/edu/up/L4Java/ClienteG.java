@@ -2,7 +2,7 @@ import br.edu.up.controller.ClienteController;
 import br.edu.up.view.ClienteView;
 
 
-public class App {
+public class ClienteG {
     public static void main(String[] args) {
         ClienteController controller = new ClienteController();
         ClienteView view = new ClienteView(controller);

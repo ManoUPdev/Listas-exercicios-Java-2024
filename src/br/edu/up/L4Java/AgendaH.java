@@ -4,7 +4,7 @@ import br.edu.up.models.Agenda;
 import br.edu.up.models.Comercial;
 import br.edu.up.models.Pessoal;
 
-public class App {
+public class AgendaH {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcao;

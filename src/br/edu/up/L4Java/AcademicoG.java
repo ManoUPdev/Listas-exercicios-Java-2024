@@ -3,7 +3,7 @@ import br.edu.br.controllers;
 import br.edu.br.view;
 
 
-public class App {
+public class AcademicoG {
     public static void main(String[] args) {
         // Exemplo de uso do controlador
         AcademicoController controller = new AcademicoController();

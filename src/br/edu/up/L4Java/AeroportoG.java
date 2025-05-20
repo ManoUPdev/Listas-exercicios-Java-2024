@@ -9,7 +9,7 @@ import br.edu.up.models.Passagem;
 import br.edu.up.models.Tripulacao;
 import br.edu.up.view.AeroportoView;
 
-public class App {
+public class AeroportoG {
     public static void main(String[] args) {
         AeroportoController controller = new AeroportoController();
         AeroportoView view = new AeroportoView();
