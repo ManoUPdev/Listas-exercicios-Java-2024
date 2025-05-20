@@ -1,6 +1,5 @@
-package br.edu.up;
-
 import java.util.Scanner;
+
 public class L2Ex15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
