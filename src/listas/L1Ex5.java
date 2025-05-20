@@ -1,5 +1,3 @@
-package br.edu.up;
-
 import java.util.Scanner;
 
 public class L1Ex5 {
