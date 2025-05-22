@@ -18,9 +18,9 @@ public class Estacionamento {
         return vagas.size() < 10;
     }
 
-    public boolean entrarVeiculo(Veiculo eiculo) {
+    public boolean entrarVeiculo(Veiculo veiculo) {
         if (temVaga()) {
-            vagas.add(v);
+            vagas.add(veiculo);
             totalEntradas++;
             totalPagamento += 5.0;
             return true;

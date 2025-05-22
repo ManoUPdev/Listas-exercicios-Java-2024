@@ -3,7 +3,7 @@ package view;
 import java.util.Scanner;
 
 public class Menu {
-    private Scanner sc = new Scanner(System.in);
+    private Scanner scanner = new Scanner(System.in);
 
     public void exibirMenu() {
         System.out.println("\n=== MENU ESTACIONAMENTO ===");
@@ -16,11 +16,11 @@ public class Menu {
 
     public String lerString(String mensagem) {
         System.out.print(mensagem);
-        return sc.nextLine();
+        return scanner.nextLine();
     }
 
     public int lerInt(String mensagem) {
         System.out.print(mensagem);
-        return sc.nextInt();
+        return scanner.nextInt();
     }
 }
