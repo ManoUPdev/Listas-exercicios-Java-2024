@@ -3,6 +3,7 @@ import java.util.ArrayList;
 
 public class Estacionamento {
     private ArrayList<Veiculo> vagas;
+    @SuppressWarnings("unused")
     private int totalEntradas;
     private int totalSaidas;
     private double totalPagamento;
@@ -39,6 +40,7 @@ public class Estacionamento {
         return false;
     }
 
+    @SuppressWarnings("unused")
     public void gerarRelatorio(String periodo) {
         int entradas = 0, saidas = 0;
         double valor = 0;

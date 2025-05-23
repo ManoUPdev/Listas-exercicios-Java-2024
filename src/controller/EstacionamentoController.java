@@ -2,15 +2,15 @@ package controller;
 
 import model.Estacionamento;
 import model.Veiculo;
-import view.Menu;
+import view.Menu0;
 
 public class EstacionamentoController {
     private Estacionamento estacionamento;
-    private Menu menu;
+    private Menu0 menu;
 
     public EstacionamentoController() {
         this.estacionamento = new Estacionamento();
-        this.menu = new Menu();
+        this.menu = new Menu0();
     }
 
     public void iniciar() {
